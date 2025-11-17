@@ -67,11 +67,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Onii-Chan&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rizrin&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Onii-Chan&theme=tokyonight&hide_border=true" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizrin&theme=tokyonight&hide_border=true" height="180px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onii-Chan&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizrin&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 
 </div>
 
