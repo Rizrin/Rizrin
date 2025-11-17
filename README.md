@@ -13,7 +13,7 @@
 | **Role** | Mobile Dev |
 | **Location** | Indonesia |
 | **Interests** | Mobile Dev (Flutter), AI & Data Enthusiast |
-| **Current Goal** | Mastering Flutter in 30 days & Developing AI-based Applications |
+| **Current Goal** | Mastering Flutter & Developing AI-based Applications |
 | **Daily Tools** | Flutter • Dart • Firebase • SQL • Word • GitHub • VSCode |
 
 ---
